@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e Framewors</h3>
+<h3 align="left">🛠 Linguagens</h3>
 
 ###
 
@@ -42,10 +42,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Felipe-R-Faria/Felipe-R-Faria/output/snake.svg" alt="Snake animation" />
-
-###
