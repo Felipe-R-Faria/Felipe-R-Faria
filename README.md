@@ -1,35 +1,51 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%F0%9D%99%9B%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%A5%F0%9D%99%9A&fontSize=70&fontColor=03fc5a&fontAlign=50&fontAlignY=50&stroke=#03fc5a&strokeWidth=-9&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWttbHdoZW5teHZmd3dnMnZxcmttNWZxYTN0andhNTdhcXcyMWo2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h0Cq1ClzO3UpupFPjP/giphy.gif"  />
 </div>
 
 ###
 
-<p align="center">Hello World!!</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+###
+
+<h1 align="center">Oi meu nome é Felipe</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">- 🔭 Estou trabalhando em alguns projetos.<br>- 📚 Eu estou estudando algumas linguagens atualmente como javascript | python | java, e pretendo me especializar em java.<br>- ⚡ No meu tempo livre eu tento fazer algum programa para resolver algum problema do dia a dia.</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e Framewors</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<p align="center">────────────────────────────────────────────────────────────────────────────────────────────────────</p>
+<img src="https://raw.githubusercontent.com/Felipe-R-Faria/Felipe-R-Faria/output/snake.svg" alt="Snake animation" />
 
 ###
